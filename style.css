@@ -1,0 +1,21 @@
+/*Estilos de img card y color de botones index*/
+.imgProductos {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-top: 1rem;
+}
+.card {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+}
+.colorBoton {
+    color: white;
+    background-color: #410bbf;
+}
+.colorBoton:hover {
+    background-color: rgb(147, 11, 221);
+    color: white;
+}
+
