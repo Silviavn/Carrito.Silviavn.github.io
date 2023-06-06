@@ -3,192 +3,224 @@
     "id": 1, 
     "nombre": "Pan", 
     "precio": 2000, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832066/proyecto%20js%20carrito/pan_i3yapn.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832066/proyecto%20js%20carrito/pan_i3yapn.jpg",
+    "cantidad": 1
   },
   { 
     "id": 2, 
     "nombre": "Aceite", 
     "precio": 2200, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832338/proyecto%20js%20carrito/aceiteolivagirasol_thnmli.webp"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832338/proyecto%20js%20carrito/aceiteolivagirasol_thnmli.webp",
+    "cantidad": 1
   },
   {
     "id":3, 
     "nombre": "Arroz", 
     "precio": 990, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832369/proyecto%20js%20carrito/1634751167325_j008us.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832369/proyecto%20js%20carrito/1634751167325_j008us.jpg",
+    "cantidad": 1
   },
   {
     "id":4 , 
     "nombre": "Fideos", 
     "precio": 1000, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832385/proyecto%20js%20carrito/istockphoto-185065945-612x612_hwlcnk.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832385/proyecto%20js%20carrito/istockphoto-185065945-612x612_hwlcnk.jpg",
+    "cantidad": 1
   },
   {
     "id":5 , 
     "nombre": "Salsa", 
     "precio": 550, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832398/proyecto%20js%20carrito/salsa-de-tomate-casera-des_wwoleo.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832398/proyecto%20js%20carrito/salsa-de-tomate-casera-des_wwoleo.jpg",
+    "cantidad": 1
   },
   {
     "id":6, 
     "nombre": "Azucar", 
     "precio": 900, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684920671/azucar_rjenli.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684920671/azucar_rjenli.jpg",
+    "cantidad": 1
   },
   {
     "id":7, 
     "nombre": "Sal", 
     "precio": 400, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832491/proyecto%20js%20carrito/sal_r93qd5.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832491/proyecto%20js%20carrito/sal_r93qd5.jpg",
+    "cantidad": 1
   },
   {
     "id":8, 
     "nombre": "Galletas", 
     "precio": 1700, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832548/proyecto%20js%20carrito/galletas_w4ux66.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832548/proyecto%20js%20carrito/galletas_w4ux66.jpg",
+    "cantidad": 1
   },
   {
     "id":9, 
     "nombre": "Mani", 
     "precio": 200, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832610/proyecto%20js%20carrito/mani_c0tcgh.webp"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832610/proyecto%20js%20carrito/mani_c0tcgh.webp",
+    "cantidad": 1
   },
   {
     "id":10, 
     "nombre": "Bebida", 
     "precio": 3000, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832660/proyecto%20js%20carrito/bebida_cyp3te.png"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832660/proyecto%20js%20carrito/bebida_cyp3te.png",
+    "cantidad": 1
   },
   {
     "id":11 , 
     "nombre": "Mayonesa", 
     "precio": 5000, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832660/proyecto%20js%20carrito/bebida_cyp3te.png"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832660/proyecto%20js%20carrito/bebida_cyp3te.png",
+    "cantidad": 1
   },
   {
     "id":12 , 
     "nombre": "Chocolate", 
     "precio": 7000, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832803/proyecto%20js%20carrito/tipos-chocolate-t_gdxjru.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832803/proyecto%20js%20carrito/tipos-chocolate-t_gdxjru.jpg",
+    "cantidad": 1
   },
   {
     "id":13, 
     "nombre": "Sopa", 
     "precio": 1300, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832885/proyecto%20js%20carrito/descarga_nliw5p.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832885/proyecto%20js%20carrito/descarga_nliw5p.jpg",
+    "cantidad": 1
   },
   {
     "id":14, 
     "nombre": "Margarina", 
     "precio": 1100, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832933/proyecto%20js%20carrito/margarina_aygamo.webp"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684832933/proyecto%20js%20carrito/margarina_aygamo.webp",
+    "cantidad": 1
   },
   {
     "id":15, 
     "nombre": "Verduras", 
     "precio": 300, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834565/proyecto%20js%20carrito/verduras_ibzjuc.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834565/proyecto%20js%20carrito/verduras_ibzjuc.jpg",
+    "cantidad": 1
   },
   {
     "id":16, 
     "nombre": "Croquetas", 
     "precio": 1400, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834638/proyecto%20js%20carrito/croquetas_ekfhgt.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834638/proyecto%20js%20carrito/croquetas_ekfhgt.jpg",
+    "cantidad": 1
   },
   {
     "id":17, 
     "nombre": "Yogurt", 
     "precio": 150, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834720/proyecto%20js%20carrito/gogurt_ln5ubo.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834720/proyecto%20js%20carrito/gogurt_ln5ubo.jpg",
+    "cantidad": 1
   },
   {
     "id":18, 
     "nombre": "Jugo", 
     "precio": 200, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834773/proyecto%20js%20carrito/images_yvarss.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834773/proyecto%20js%20carrito/images_yvarss.jpg",
+    "cantidad": 1
   },
   {
     "id":19, 
     "nombre": "Cereal", 
     "precio": 6000, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834865/proyecto%20js%20carrito/variedad-de-cereales-fr%C3%ADos-de-arriba-86142204_qkvnbm.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834865/proyecto%20js%20carrito/variedad-de-cereales-fr%C3%ADos-de-arriba-86142204_qkvnbm.jpg",
+    "cantidad": 1
   },
   {
     "id": 20, 
     "nombre": "Helado", 
     "precio": 5400, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834871/proyecto%20js%20carrito/helado_usbomx.webp"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834871/proyecto%20js%20carrito/helado_usbomx.webp",
+    "cantidad": 1
   },
   {
     "id": 21, 
     "nombre": "Jamon", 
     "precio": 1000, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834946/proyecto%20js%20carrito/jamon_e1majo.webp"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684834946/proyecto%20js%20carrito/jamon_e1majo.webp",
+    "cantidad": 1
   },
   {
     "id":22, 
     "nombre": "Cloro", 
     "precio": 3000, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835010/proyecto%20js%20carrito/cloro_usyrri.webp"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835010/proyecto%20js%20carrito/cloro_usyrri.webp",
+    "cantidad": 1
   },
   {
     "id":23, 
     "nombre": "Confort", 
     "precio": 2000, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835093/proyecto%20js%20carrito/confort_rrlmv0.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835093/proyecto%20js%20carrito/confort_rrlmv0.jpg",
+    "cantidad": 1
   },
   {
     "id":24, 
     "nombre": "Pañales", 
     "precio": 2200, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835096/proyecto%20js%20carrito/pa%C3%B1ales_hdkajc.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835096/proyecto%20js%20carrito/pa%C3%B1ales_hdkajc.jpg",
+    "cantidad": 1
   },
   {
     "id":25, 
     "nombre": "Detergente", 
     "precio":5000 , 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835171/proyecto%20js%20carrito/detergente_kkp8yv.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835171/proyecto%20js%20carrito/detergente_kkp8yv.jpg",
+    "cantidad": 1
   },
   {
     "id":26, 
     "nombre": "Cafe", 
     "precio": 3000, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835172/proyecto%20js%20carrito/cafe_ipdbyk.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835172/proyecto%20js%20carrito/cafe_ipdbyk.jpg",
+    "cantidad": 1
   },
   {
     "id":27, 
     "nombre": "Te", 
     "precio": 2000, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835247/proyecto%20js%20carrito/descarga_1_llrc48.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835247/proyecto%20js%20carrito/descarga_1_llrc48.jpg",
+    "cantidad": 1
   },
   {
       "id":28, 
       "nombre": "Atun", 
       "precio": 1400, 
-      "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835252/proyecto%20js%20carrito/descarga_2_z58e4g.jpg"
+      "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835252/proyecto%20js%20carrito/descarga_2_z58e4g.jpg",
+      "cantidad": 1
     },
     {
       "id":29, 
       "nombre": "Porotos", 
       "precio": 860, 
-      "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835320/proyecto%20js%20carrito/vitamina_porotos_ncz6fp.jpg"
+      "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835320/proyecto%20js%20carrito/vitamina_porotos_ncz6fp.jpg",
+      "cantidad": 1
     },
   {
     "id": 30, 
     "nombre": "Lentejas", 
     "precio":1200 , 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835322/proyecto%20js%20carrito/lentejas_ctlh12.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684835322/proyecto%20js%20carrito/lentejas_ctlh12.jpg",
+    "cantidad": 1
   },
   {
     "id":31, 
     "nombre": "Leche", 
     "precio": 990, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684922065/leche_hebbz3.jpg"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684922065/leche_hebbz3.jpg",
+    "cantidad": 1
   },
   {
     "id": 32, 
     "nombre": "Congelados", 
     "precio": 1000, 
-    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684922190/congelados_obmqs0.png"
+    "imagen": "https://res.cloudinary.com/dmicwl879/image/upload/v1684922190/congelados_obmqs0.png",
+    "cantidad": 1
   }
 ]
