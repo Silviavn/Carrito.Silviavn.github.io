@@ -53,7 +53,7 @@ const mostrarCarrito = () => {
             card.classList.add("col-xl-3", "col-md-6", "col-xs-12");
             card.innerHTML = `
                                 <div class="card">
-                                <img src="${producto.img}" class="card-img-top imgProductos" alt="${producto.nombre}">
+                                <img src="${producto.imagen}" class="card-img-top imgProductos" alt="${producto.nombre}">
                                 <div class="card-body">
                                     <h5> ${producto.nombre}</h5>
                                     <p> ${producto.precio}</p>
