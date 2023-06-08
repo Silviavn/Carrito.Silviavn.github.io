@@ -37,6 +37,7 @@ const agregarAlCarrito = (id) => {
         productoEnCarrito.cantidad++;
     } else {
         const producto = productos.find(producto => producto.id === id);
+        producto.cantidad = 1
         carrito.push(producto);
     }
     calcularTotal();
@@ -96,8 +97,6 @@ const eliminarTodoElCarrito = () => {
 }
 
 // -----------------
-
-/*DOM:Mostramos los productos*/
 const contenedorProductos = document.getElementById("contenedorProductos");
 const contenedorCarrito = document.getElementById("contenedorCarrito");
 const vemosCarrito = document.getElementById("vemosCarrito");
@@ -112,6 +111,41 @@ vemosCarrito.addEventListener("click", () => {
 vaciarCarrito.addEventListener("click", () => {
     eliminarTodoElCarrito();
 })
+
+/*estilo boton finalizar compra de index.html*/
+ 
+const botonFin = document.getElementById("boton");
+
+botonFin.addEventListener("click", () => {
+
+    Swal.fire({
+        icon: 'success',
+        title: 'Productos en su carrito',
+        text: 'Hemos guardado exitosamente sus productos en nuestro carrito',
+        footer: '<a href="pago.html">Continuar con el pago</a>'
+})
+  })
+  /*estilo boton de pagar en pago.html*/
+  const botonPago = document.getElementById("boton");
+
+botonPago.addEventListener("click", () => {
+
+    Swal.fire({
+        icon: 'info',
+        title: 'Su compra a sido exitosa',
+        text: 'Dentro de las proximas dos horas llegara su pedido a su domicilio',
+        text: '¡Muchas gracias por su compra en Super Núñez!'
+})
+  })
+
+
+
+
+
+
+
+
+
 
 window.addEventListener('DOMContentLoaded', () => {
     const carritoGuardado = localStorage.getItem('carrito');
