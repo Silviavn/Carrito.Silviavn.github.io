@@ -113,8 +113,7 @@ vaciarCarrito.addEventListener("click", () => {
 })
 
 /*estilo boton finalizar compra de index.html*/
- 
-const botonFin = document.getElementById("boton");
+const botonFin = document.getElementById("botonFin");
 
 botonFin.addEventListener("click", () => {
 
@@ -126,7 +125,7 @@ botonFin.addEventListener("click", () => {
 })
   })
   /*estilo boton de pagar en pago.html*/
-  const botonPago = document.getElementById("boton");
+  const botonPago = document.getElementById("botonPago");
 
 botonPago.addEventListener("click", () => {
 
@@ -137,14 +136,6 @@ botonPago.addEventListener("click", () => {
         text: '¡Muchas gracias por su compra en Super Núñez!'
 })
   })
-
-
-
-
-
-
-
-
 
 
 window.addEventListener('DOMContentLoaded', () => {
