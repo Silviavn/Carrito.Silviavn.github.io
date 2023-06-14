@@ -3,7 +3,7 @@ let carrito = [];
 
 const obtenerProductos = async () => {
     const response = await fetch('./productos.json')
-    
+
     productos = await response.json()
     verProductos()
 }
@@ -122,20 +122,8 @@ botonFin.addEventListener("click", () => {
         title: 'Productos en su carrito',
         text: 'Hemos guardado exitosamente sus productos en nuestro carrito',
         footer: '<a href="pago.html">Continuar con el pago</a>'
+    })
 })
-  })
-  /*estilo boton de pagar en pago.html*/
-  const botonPago = document.getElementById("botonPago");
-
-botonPago.addEventListener("click", () => {
-
-    Swal.fire({
-        icon: 'info',
-        title: 'Su compra a sido exitosa',
-        text: 'Dentro de las proximas dos horas llegara su pedido a su domicilio',
-        text: '¡Muchas gracias por su compra en Super Núñez!'
-})
-  })
 
 
 window.addEventListener('DOMContentLoaded', () => {
